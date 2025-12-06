@@ -1,0 +1,40 @@
+Wrongly Predicted noun: [Lemma('probe.n.01.investigation'), 'investigation']
+['The', 'Fulton', 'County', 'Grand', 'Jury', 'said', 'Friday', 'an', 'investigation', 'of', 'Atlanta', "'s", 'recent', 'primary', 'election', 'produced', '``', 'no', 'evidence', "''", 'that', 'any', 'irregularities', 'took', 'place', '.']
+actual sense: an inquiry into unfamiliar or questionable activities
+Predicted sense: the work of inquiring into something thoroughly and systematically
+Wrongly Predicted noun: [Lemma('evidence.n.01.evidence'), 'evidence']
+['The', 'Fulton', 'County', 'Grand', 'Jury', 'said', 'Friday', 'an', 'investigation', 'of', 'Atlanta', "'s", 'recent', 'primary', 'election', 'produced', '``', 'no', 'evidence', "''", 'that', 'any', 'irregularities', 'took', 'place', '.']
+actual sense: your basis for belief or disbelief; knowledge on which to base belief
+Predicted sense: (law) all the means by which any alleged matter of fact whose truth is investigated at judicial trial is established or disproved
+Wrongly Predicted noun: [Lemma('abnormality.n.04.irregularity'), 'irregularities']
+['The', 'Fulton', 'County', 'Grand', 'Jury', 'said', 'Friday', 'an', 'investigation', 'of', 'Atlanta', "'s", 'recent', 'primary', 'election', 'produced', '``', 'no', 'evidence', "''", 'that', 'any', 'irregularities', 'took', 'place', '.']
+actual sense: behavior that breaches the rule or etiquette or custom or morality
+Predicted sense: irregular and infrequent or difficult evacuation of the bowels; can be a symptom of intestinal obstruction or diverticulitis
+Wrongly Predicted noun: [Lemma('term.n.02.term'), 'term']
+['The', 'jury', 'further', 'said', 'in', 'term', 'end', 'presentments', 'that', 'the', 'City', 'Executive', 'Committee', ',', 'which', 'had', 'over-all', 'charge', 'of', 'the', 'election', ',', '``', 'deserves', 'the', 'praise', 'and', 'thanks', 'of', 'the', 'City', 'of', 'Atlanta', "''", 'for', 'the', 'manner', 'in', 'which', 'the', 'election', 'was', 'conducted', '.']
+actual sense: a limited period of time
+Predicted sense: one of the substantive phrases in a logical proposition
+Wrongly Predicted noun: [Lemma('end.n.02.end'), 'end']
+['The', 'jury', 'further', 'said', 'in', 'term', 'end', 'presentments', 'that', 'the', 'City', 'Executive', 'Committee', ',', 'which', 'had', 'over-all', 'charge', 'of', 'the', 'election', ',', '``', 'deserves', 'the', 'praise', 'and', 'thanks', 'of', 'the', 'City', 'of', 'Atlanta', "''", 'for', 'the', 'manner', 'in', 'which', 'the', 'election', 'was', 'conducted', '.']
+actual sense: the point in time at which something ends
+Predicted sense: bring to an end or halt
+Wrongly Predicted noun: [Lemma('mission.n.03.charge'), 'charge']
+['The', 'jury', 'further', 'said', 'in', 'term', 'end', 'presentments', 'that', 'the', 'City', 'Executive', 'Committee', ',', 'which', 'had', 'over-all', 'charge', 'of', 'the', 'election', ',', '``', 'deserves', 'the', 'praise', 'and', 'thanks', 'of', 'the', 'City', 'of', 'Atlanta', "''", 'for', 'the', 'manner', 'in', 'which', 'the', 'election', 'was', 'conducted', '.']
+actual sense: a special assignment that is given to a person or group
+Predicted sense: (criminal law) a pleading describing some wrong or offense
+Wrongly Predicted noun: [Lemma('term.n.02.term'), 'term']
+['The', 'September', 'October', 'term', 'jury', 'had', 'been', 'charged', 'by', 'Fulton', 'Superior', 'Court', 'Judge', 'Durwood', 'Pye', 'to', 'investigate', 'reports', 'of', 'possible', '``', 'irregularities', "''", 'in', 'the', 'hard-fought', 'primary', 'which', 'was', 'won', 'by', 'Mayor-nominate', 'Ivan', 'Allen', 'Jr.', '.']
+actual sense: a limited period of time
+Predicted sense: (usually plural) a statement of what is required as part of an agreement
+Wrongly Predicted noun: [Lemma('report.n.03.report'), 'reports']
+['The', 'September', 'October', 'term', 'jury', 'had', 'been', 'charged', 'by', 'Fulton', 'Superior', 'Court', 'Judge', 'Durwood', 'Pye', 'to', 'investigate', 'reports', 'of', 'possible', '``', 'irregularities', "''", 'in', 'the', 'hard-fought', 'primary', 'which', 'was', 'won', 'by', 'Mayor-nominate', 'Ivan', 'Allen', 'Jr.', '.']
+actual sense: a short account of the news
+Predicted sense: announce as the result of an investigation or experience or finding
+Wrongly Predicted noun: [Lemma('abnormality.n.04.irregularity'), 'irregularities']
+['The', 'September', 'October', 'term', 'jury', 'had', 'been', 'charged', 'by', 'Fulton', 'Superior', 'Court', 'Judge', 'Durwood', 'Pye', 'to', 'investigate', 'reports', 'of', 'possible', '``', 'irregularities', "''", 'in', 'the', 'hard-fought', 'primary', 'which', 'was', 'won', 'by', 'Mayor-nominate', 'Ivan', 'Allen', 'Jr.', '.']
+actual sense: behavior that breaches the rule or etiquette or custom or morality
+Predicted sense: irregular and infrequent or difficult evacuation of the bowels; can be a symptom of intestinal obstruction or diverticulitis
+Wrongly Predicted noun: [Lemma('report.n.03.report'), 'reports']
+['``', 'Only', 'a', 'relative', 'handful', 'of', 'such', 'reports', 'was', 'received', "''", ',', 'the', 'jury', 'said', ',', '``', 'considering', 'the', 'widespread', 'interest', 'in', 'the', 'election', ',', 'the', 'number', 'of', 'voters', 'and', 'the', 'size', 'of', 'this', 'city', "''", '.']
+actual sense: a short account of the news
+Predicted sense: the general estimation that the public has for a person

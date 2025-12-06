@@ -1,0 +1,689 @@
+Esquire
+Bambi
+Starbird
+Super-Protein
+Petruchka
+tooth
+T-34
+Plymouth
+Titan
+Igbo
+guidelines
+Lucia
+antagonism
+Zeros
+Order
+yarder
+F-108
+Sardanapalus
+Wanderjahr
+nostrils
+goods
+assemblage
+Poetics
+moving
+Paget
+Invictus
+inspections
+Minerva
+Migs
+Harper
+Inquisitor-General
+Digest
+rok
+Supplies
+Flavus
+X-region
+Bacchus
+cunning
+Boylston
+Commonweal
+twilight
+Homicide
+alchemy
+Mackinac
+Thor
+entropy
+manzanita
+Winchester
+Jazz
+Sukuma
+Armide
+Jaycee
+Y-region
+B
+Leopard
+Whatman
+windfall
+radioactivity
+marches
+Shangri-La
+modernizing
+Byronic
+Bathyrans
+Cardinals
+gray-backs
+Prop.
+portraits
+digging
+Shadow
+jazz
+X
+senora
+Bantus
+Fifth
+Battenkill
+MLSS
+Urielites
+P.M
+Friends
+B-58
+hairtonic
+Launder-Ometer
+Reformation
+babbiting
+adulation
+Varigrad
+Super-Set
+Israelites
+Puritan
+moccasins
+Smith-Hughes
+Y-regions
+Seton
+Varian
+Globe-Democrat
+Gabriel
+Know-Nothing
+transversus
+Broxodent
+Kikuyu
+Open
+maturing
+Trout
+inverse
+Post-Dispatch
+galvanizing
+fine
+CuKla
+B-70
+Dowex-2-chloride
+Completions
+Vanguard
+imperfectability
+hellfire
+mankind
+banana
+Heaven
+Kikiyus
+Fiorello
+quantum
+Bathyran
+Bishopsgate
+assets
+Spinco
+Giselle
+Tannhaeuser
+Flood
+assimilation
+A.M.
+troubie
+Schlieren
+myrrh
+Swallow-Barn
+n
+controlling
+handcuffs
+B.C.
+Autobiography
+Violet
+functioning
+doings
+negation
+shorts
+Polaris
+Somers
+babel
+Scheherazade
+Baker
+ill
+gravy
+mittens
+Evangelism
+Observer
+Milbankes
+deed
+Byronism
+Katie
+Mehitabel
+Kombo
+Forellen
+Woman
+furnishing
+Endgame
+Tiber
+Schott
+Gonzales
+probings
+Volare
+AB
+Zeiss
+gloves
+railway
+Containment
+I-E
+squadroom
+Selkirkers
+CONELRAD
+Quick-Wate
+Phedre
+territories
+Gaieties
+Pieta
+Ewe
+coughing
+Castroism
+Zero
+NRL
+Reader
+Ring
+Ford
+Kentuck
+Europeanization
+everything
+Highlands
+Corning
+foothills
+U.N.F.P.
+surprising
+evangelism
+birthcontrol
+Y-cell
+Rosabelle
+Thank-Heaven-We
+maneuvering
+Cadillac
+Clemence
+peasanthood
+fashions
+Robbery
+Nugent
+Y-cells
+gastronomy
+ROK
+Nabisco
+ills
+rings
+Escape
+Niger
+most
+Confessions
+Vulturidae
+Rolls-Royce
+Minuteman
+Alastor
+Exboyfriend
+more
+Stilts
+marshaling
+pants
+Completion
+Abbey
+Parsifal
+B-47
+M.P.
+mooncursers
+photorealism
+Ariadne
+ZING
+enslaving
+Istiqlal
+Rhinoceros
+Talmud
+Trial
+air-conditioning
+few
+Jiffy-Couch-a-Bed
+Murray
+Io
+Hector
+pumps
+cytolysis
+Mad
+Masters
+procession
+W-region
+coconuts
+Dynafac
+headwaters
+hel
+wares
+Bazaar
+More
+mister
+jungle
+Parisina
+Terg-O-Tometer
+pajamas
+Senor
+Madeleine
+sobs
+Alpha
+OEP
+Concert-Disc
+Bombers
+Ifni
+SX-21
+perfectability
+Beckman
+Wander-Years
+less
+Secesh
+Decca
+doing
+p.m.
+Cinerama
+Theatre-by-the-Sea
+knick-knacks
+Discovery
+Fitch
+Wratten
+Bast
+spoilables
+Quakeress
+Mig
+summarization
+feasts
+Free-Will
+Studebaker
+P.D.I.
+Krapp
+something
+frills
+Atlas
+Cominform
+furnishings
+Eta
+Mrs.
+Science
+Agamemnon
+George-Barden
+least
+hoofmarks
+receiving
+pounder
+Uprising
+montmorillonites
+Pilgrimage
+cosmetics
+Accuracy on tagging  100 samples is 0.8003952569169961
+Accuracy on tagging  200 samples is 0.8068535825545171
+Accuracy on tagging  300 samples is 0.7991391678622669
+Accuracy on tagging  400 samples is 0.7910364145658263
+Accuracy on tagging  500 samples is 0.7846227316141356
+Accuracy on tagging  600 samples is 0.7801091061686949
+Accuracy on tagging  700 samples is 0.7813421828908554
+Accuracy on tagging  800 samples is 0.7773399014778325
+Accuracy on tagging  900 samples is 0.7791592658377738
+Accuracy on tagging  1000 samples is 0.7753267973856209
+Accuracy on tagging  1100 samples is 0.7674474764549626
+Accuracy on tagging  1200 samples is 0.7671721677074042
+Accuracy on tagging  1300 samples is 0.7653642653642654
+Accuracy on tagging  1400 samples is 0.757844222960502
+Accuracy on tagging  1500 samples is 0.7565436241610738
+Accuracy on tagging  1600 samples is 0.7559311521166072
+Accuracy on tagging  1700 samples is 0.7559970566593083
+Accuracy on tagging  1800 samples is 0.7532179930795848
+Accuracy on tagging  1900 samples is 0.7558528428093646
+Accuracy on tagging  2000 samples is 0.7584647353624251
+Accuracy on tagging  2100 samples is 0.7605731453663046
+Accuracy on tagging  2200 samples is 0.759581881533101
+Accuracy on tagging  2300 samples is 0.7625195210827694
+Accuracy on tagging  2400 samples is 0.7620178041543026
+Accuracy on tagging  2500 samples is 0.7608613880007523
+Accuracy on tagging  2600 samples is 0.760523938572719
+Accuracy on tagging  2700 samples is 0.7580534022394487
+Accuracy on tagging  2800 samples is 0.759905236500286
+Accuracy on tagging  2900 samples is 0.764751552795031
+Accuracy on tagging  3000 samples is 0.7681493603094317
+Accuracy on tagging  3100 samples is 0.7685884978046498
+Accuracy on tagging  3200 samples is 0.7715750103892506
+Accuracy on tagging  3300 samples is 0.7736685411842541
+Accuracy on tagging  3400 samples is 0.7733426555647366
+Accuracy on tagging  3500 samples is 0.7751918791780144
+Accuracy on tagging  3600 samples is 0.7786655536342496
+Accuracy on tagging  3700 samples is 0.7806702226345084
+Accuracy on tagging  3800 samples is 0.782694698767944
+Accuracy on tagging  3900 samples is 0.7835677924352729
+Accuracy on tagging  4000 samples is 0.7848061029879212
+Accuracy on tagging  4100 samples is 0.7864102696293241
+Accuracy on tagging  4200 samples is 0.7875866224766496
+Accuracy on tagging  4300 samples is 0.787120730932721
+Accuracy on tagging  4400 samples is 0.7871201157742402
+Accuracy on tagging  4500 samples is 0.7876886792452831
+Accuracy on tagging  4600 samples is 0.7874030291835981
+Accuracy on tagging  4700 samples is 0.7862516329564395
+Accuracy on tagging  4800 samples is 0.7853907383789964
+Accuracy on tagging  4900 samples is 0.7856864696464887
+Accuracy on tagging  5000 samples is 0.784020922973087
+Accuracy on tagging  5100 samples is 0.783857390443179
+Accuracy on tagging  5200 samples is 0.7840305108126749
+Accuracy on tagging  5300 samples is 0.7841898175748182
+Accuracy on tagging  5400 samples is 0.7835788982622556
+Accuracy on tagging  5500 samples is 0.7828317373461012
+Accuracy on tagging  5600 samples is 0.7847413472273912
+Accuracy on tagging  5700 samples is 0.7850636179236585
+Accuracy on tagging  5800 samples is 0.7849446602653375
+Accuracy on tagging  5900 samples is 0.7850619699934769
+Accuracy on tagging  6000 samples is 0.784947009161128
+Accuracy on tagging  6100 samples is 0.7851072152483909
+Accuracy on tagging  6200 samples is 0.7851891127606928
+Accuracy on tagging  6300 samples is 0.7848634974175187
+Accuracy on tagging  6400 samples is 0.7851311749930227
+Accuracy on tagging  6500 samples is 0.7853802182574051
+Accuracy on tagging  6600 samples is 0.7853670309967934
+Accuracy on tagging  6700 samples is 0.7853705486044273
+Accuracy on tagging  6800 samples is 0.7853996653805443
+Accuracy on tagging  6900 samples is 0.7850825171981429
+Accuracy on tagging  7000 samples is 0.7851123595505618
+Accuracy on tagging  7100 samples is 0.7851053242660474
+Accuracy on tagging  7200 samples is 0.7854728066432534
+Accuracy on tagging  7300 samples is 0.7855372978612415
+Accuracy on tagging  7400 samples is 0.7854284976768198
+Accuracy on tagging  7500 samples is 0.7860067822637404
+Accuracy on tagging  7600 samples is 0.7862854604302849
+Accuracy on tagging  7700 samples is 0.7862528273435536
+Accuracy on tagging  7800 samples is 0.7865416952108115
+Accuracy on tagging  7900 samples is 0.7867003574510045
+Accuracy on tagging  8000 samples is 0.7870152131990572
+Accuracy on tagging  8100 samples is 0.7867633615698701
+Accuracy on tagging  8200 samples is 0.7866302864938608
+Accuracy on tagging  8300 samples is 0.7866218123929956
+Accuracy on tagging  8400 samples is 0.7864236929225447
+Accuracy on tagging  8500 samples is 0.7861946378314324
+Accuracy on tagging  8600 samples is 0.786370326758905
+Accuracy on tagging  8700 samples is 0.7864717600187485
+Accuracy on tagging  8800 samples is 0.7862606520664281
+Accuracy on tagging  8900 samples is 0.7858500345542502
+Accuracy on tagging  9000 samples is 0.7861318051575932
+Accuracy on tagging  9100 samples is 0.786431873965409
+Accuracy on tagging  9200 samples is 0.7866817155756207
+Accuracy on tagging  9300 samples is 0.7867822379309377
+Accuracy on tagging  9400 samples is 0.7869542346133613
+Accuracy on tagging  9500 samples is 0.7871063642369522
+Accuracy on tagging  9600 samples is 0.7873385929950042
+Accuracy on tagging  9700 samples is 0.7873866558397619
+Accuracy on tagging  9800 samples is 0.7872019399164758
+Accuracy on tagging  9900 samples is 0.7870787722687272
+Accuracy on tagging  10000 samples is 0.7868629127043487
+Accuracy on tagging  10100 samples is 0.7869463373083475
+Accuracy on tagging  10200 samples is 0.787012987012987
+Accuracy on tagging  10300 samples is 0.7869943945893313
+Accuracy on tagging  10400 samples is 0.7869605142332415
+Accuracy on tagging  10500 samples is 0.7868843906510852
+Accuracy on tagging  10600 samples is 0.787027446918695
+Accuracy on tagging  10700 samples is 0.7873055797956984
+Accuracy on tagging  10800 samples is 0.7869879763603016
+Accuracy on tagging  10900 samples is 0.7870060790273556
+Accuracy on tagging  11000 samples is 0.7873370483370735
+Accuracy on tagging  11100 samples is 0.7872366976140561
+Accuracy on tagging  11200 samples is 0.7874206378616072
+Accuracy on tagging  11300 samples is 0.7866932833459114
+Accuracy on tagging  11400 samples is 0.7861502234610025
+Accuracy on tagging  11500 samples is 0.7857329314886448
+Accuracy on tagging  11600 samples is 0.7865094803946844
+Accuracy on tagging  11700 samples is 0.7863895453913528
+Accuracy on tagging  11800 samples is 0.7860043592979236
+Accuracy on tagging  11900 samples is 0.7862264579078738
+Accuracy on tagging  12000 samples is 0.7860275759688702
+Accuracy on tagging  12100 samples is 0.78598353891107
+Accuracy on tagging  12200 samples is 0.7852442363748785
+Accuracy on tagging  12300 samples is 0.7847742722677358
+Accuracy on tagging  12400 samples is 0.7846459756202991
+Accuracy on tagging  12500 samples is 0.7851816935207405
+Accuracy on tagging  12600 samples is 0.7853399809059085
+Accuracy on tagging  12700 samples is 0.7856617878666975
+Accuracy on tagging  12800 samples is 0.7855985037406483
+Accuracy on tagging  12900 samples is 0.7851285758545905
+Accuracy on tagging  13000 samples is 0.7846846846846847
+Accuracy on tagging  13100 samples is 0.7849641810485184
+Accuracy on tagging  13200 samples is 0.7850112173333064
+Accuracy on tagging  13300 samples is 0.785113877436657
+Accuracy on tagging  13400 samples is 0.785385238933154
+Accuracy on tagging  13500 samples is 0.7848006611830454
+Accuracy on tagging  13600 samples is 0.7843485040444401
+Accuracy on tagging  13700 samples is 0.7834882870397105
+Accuracy on tagging  13800 samples is 0.7828631538682223
+Accuracy on tagging  13900 samples is 0.7823121497102689
+Accuracy on tagging  14000 samples is 0.782450381103313
+Accuracy on tagging  14100 samples is 0.7822405801435407
+Accuracy on tagging  14200 samples is 0.7816401105525774
+Accuracy on tagging  14300 samples is 0.7814858447152376
+Accuracy on tagging  14400 samples is 0.7815539305301645
+Accuracy on tagging  14500 samples is 0.7812861689814815
+Accuracy on tagging  14600 samples is 0.7805495235189606
+Accuracy on tagging  14700 samples is 0.7797844192282422
+Accuracy on tagging  14800 samples is 0.7799488741814616
+Accuracy on tagging  14900 samples is 0.7802510922686376
+Accuracy on tagging  15000 samples is 0.7797963870702361
+Accuracy on tagging  15100 samples is 0.7804902892842591
+Accuracy on tagging  15200 samples is 0.7810058882083987
+Accuracy on tagging  15300 samples is 0.7810067809065705
+Accuracy on tagging  15400 samples is 0.7809387863497543
+Accuracy on tagging  15500 samples is 0.7799061960009874
+Accuracy on tagging  15600 samples is 0.7805168726429725
+Accuracy on tagging  15700 samples is 0.7808516496865838
+Accuracy on tagging  15800 samples is 0.7811219488679275
+Accuracy on tagging  15900 samples is 0.7815517762540369
+Accuracy on tagging  16000 samples is 0.7823069156991419
+Accuracy on tagging  16100 samples is 0.782291927801454
+Accuracy on tagging  16200 samples is 0.782095907014327
+Accuracy on tagging  16300 samples is 0.7821155002080669
+Accuracy on tagging  16400 samples is 0.7823733878098607
+Accuracy on tagging  16500 samples is 0.7820885577563753
+Accuracy on tagging  16600 samples is 0.781938192913029
+Accuracy on tagging  16700 samples is 0.7820402753302306
+Accuracy on tagging  16800 samples is 0.7820682398917781
+Accuracy on tagging  16900 samples is 0.7821026264080757
+Accuracy on tagging  17000 samples is 0.7821519953315078
+Accuracy on tagging  17100 samples is 0.7819912283318913
+Accuracy on tagging  17200 samples is 0.7820829366968111
+Accuracy on tagging  17300 samples is 0.7820969513462166
+Accuracy on tagging  17400 samples is 0.7820034910209757
+Accuracy on tagging  17500 samples is 0.7820141760189013
+Accuracy on tagging  17600 samples is 0.7821300487976953
+Accuracy on tagging  17700 samples is 0.7819765739385066
+Accuracy on tagging  17800 samples is 0.7817268519194545
+Accuracy on tagging  17900 samples is 0.7816579254079254
+Accuracy on tagging  18000 samples is 0.781683693488149
+Accuracy on tagging  18100 samples is 0.7818044764003247
+Accuracy on tagging  18200 samples is 0.7820666714874539
+Accuracy on tagging  18300 samples is 0.7819412442396313
+Accuracy on tagging  18400 samples is 0.7820621367582693
+Accuracy on tagging  18500 samples is 0.7820173240747369
+Accuracy on tagging  18600 samples is 0.7818270095820183
+Accuracy on tagging  18700 samples is 0.7815979043876883
+Accuracy on tagging  18800 samples is 0.7813760009086262
+Accuracy on tagging  18900 samples is 0.7813260168580641
+Accuracy on tagging  19000 samples is 0.7814852406326651
+Accuracy on tagging  19100 samples is 0.7815933486206266
+Accuracy on tagging  19200 samples is 0.7817304455167771
+Accuracy on tagging  19300 samples is 0.7817859089574977
+Accuracy on tagging  19400 samples is 0.7816021506874121
+Accuracy on tagging  19500 samples is 0.7817959784071828
+Accuracy on tagging  19600 samples is 0.7816850828729281
+Accuracy on tagging  19700 samples is 0.7815724578781325
+Accuracy on tagging  19800 samples is 0.7815261154549077
+Accuracy on tagging  19900 samples is 0.7814676685131355
+Accuracy on tagging  20000 samples is 0.7814871640318913
+Accuracy on tagging  20100 samples is 0.7815837635554099
+Accuracy on tagging  20200 samples is 0.7815326684584635
+Accuracy on tagging  20300 samples is 0.7815326684584635
+Accuracy on tagging  20400 samples is 0.7815326684584635
+Accuracy on tagging  20500 samples is 0.7815326684584635
+Accuracy on tagging  20600 samples is 0.7815326684584635
+Accuracy on tagging  20700 samples is 0.7815326684584635
+Accuracy on tagging  20800 samples is 0.7815326684584635
+Accuracy on tagging  20900 samples is 0.7815326684584635
+Accuracy on tagging  21000 samples is 0.7815326684584635
+Accuracy on tagging  21100 samples is 0.7815326684584635
+Accuracy on tagging  21200 samples is 0.7815326684584635
+Accuracy on tagging  21300 samples is 0.7815326684584635
+Accuracy on tagging  21400 samples is 0.7815326684584635
+Accuracy on tagging  21500 samples is 0.7815326684584635
+Accuracy on tagging  21600 samples is 0.7815326684584635
+Accuracy on tagging  21700 samples is 0.7815326684584635
+Accuracy on tagging  21800 samples is 0.7815326684584635
+Accuracy on tagging  21900 samples is 0.7815326684584635
+Accuracy on tagging  22000 samples is 0.7815326684584635
+Accuracy on tagging  22100 samples is 0.7815326684584635
+Accuracy on tagging  22200 samples is 0.7815326684584635
+Accuracy on tagging  22300 samples is 0.7815326684584635
+Accuracy on tagging  22400 samples is 0.7815326684584635
+Accuracy on tagging  22500 samples is 0.7815326684584635
+Accuracy on tagging  22600 samples is 0.7815326684584635
+Accuracy on tagging  22700 samples is 0.7815326684584635
+Accuracy on tagging  22800 samples is 0.7815326684584635
+Accuracy on tagging  22900 samples is 0.7815326684584635
+Accuracy on tagging  23000 samples is 0.7815326684584635
+Accuracy on tagging  23100 samples is 0.7815326684584635
+Accuracy on tagging  23200 samples is 0.7815326684584635
+Accuracy on tagging  23300 samples is 0.7815326684584635
+Accuracy on tagging  23400 samples is 0.7815326684584635
+Accuracy on tagging  23500 samples is 0.7815326684584635
+Accuracy on tagging  23600 samples is 0.7815326684584635
+Accuracy on tagging  23700 samples is 0.7815326684584635
+Accuracy on tagging  23800 samples is 0.7815326684584635
+Accuracy on tagging  23900 samples is 0.7815326684584635
+Accuracy on tagging  24000 samples is 0.7815326684584635
+Accuracy on tagging  24100 samples is 0.7815326684584635
+Accuracy on tagging  24200 samples is 0.7815326684584635
+Accuracy on tagging  24300 samples is 0.7815326684584635
+Accuracy on tagging  24400 samples is 0.7815326684584635
+Accuracy on tagging  24500 samples is 0.7815326684584635
+Accuracy on tagging  24600 samples is 0.7815326684584635
+Accuracy on tagging  24700 samples is 0.7815326684584635
+Accuracy on tagging  24800 samples is 0.7815326684584635
+Accuracy on tagging  24900 samples is 0.7815326684584635
+Accuracy on tagging  25000 samples is 0.7815326684584635
+Accuracy on tagging  25100 samples is 0.7815326684584635
+Accuracy on tagging  25200 samples is 0.7815326684584635
+Accuracy on tagging  25300 samples is 0.7815326684584635
+Accuracy on tagging  25400 samples is 0.7815326684584635
+Accuracy on tagging  25500 samples is 0.7815326684584635
+Accuracy on tagging  25600 samples is 0.7815326684584635
+Accuracy on tagging  25700 samples is 0.7815326684584635
+Accuracy on tagging  25800 samples is 0.7815326684584635
+Accuracy on tagging  25900 samples is 0.7815326684584635
+Accuracy on tagging  26000 samples is 0.7815326684584635
+Accuracy on tagging  26100 samples is 0.7815326684584635
+Accuracy on tagging  26200 samples is 0.7815326684584635
+Accuracy on tagging  26300 samples is 0.7815326684584635
+Accuracy on tagging  26400 samples is 0.7815326684584635
+Accuracy on tagging  26500 samples is 0.7815326684584635
+Accuracy on tagging  26600 samples is 0.7815326684584635
+Accuracy on tagging  26700 samples is 0.7815326684584635
+Accuracy on tagging  26800 samples is 0.7815326684584635
+Accuracy on tagging  26900 samples is 0.7815326684584635
+Accuracy on tagging  27000 samples is 0.7815326684584635
+Accuracy on tagging  27100 samples is 0.7815326684584635
+Accuracy on tagging  27200 samples is 0.7815326684584635
+Accuracy on tagging  27300 samples is 0.7815326684584635
+Accuracy on tagging  27400 samples is 0.7815326684584635
+Accuracy on tagging  27500 samples is 0.7815326684584635
+Accuracy on tagging  27600 samples is 0.7815326684584635
+Accuracy on tagging  27700 samples is 0.7815326684584635
+Accuracy on tagging  27800 samples is 0.7815326684584635
+Accuracy on tagging  27900 samples is 0.7815326684584635
+Accuracy on tagging  28000 samples is 0.7815326684584635
+Accuracy on tagging  28100 samples is 0.7815326684584635
+Accuracy on tagging  28200 samples is 0.7815326684584635
+Accuracy on tagging  28300 samples is 0.7815326684584635
+Accuracy on tagging  28400 samples is 0.7815326684584635
+Accuracy on tagging  28500 samples is 0.7815326684584635
+Accuracy on tagging  28600 samples is 0.7815326684584635
+Accuracy on tagging  28700 samples is 0.7815326684584635
+Accuracy on tagging  28800 samples is 0.7815326684584635
+Accuracy on tagging  28900 samples is 0.7815326684584635
+Accuracy on tagging  29000 samples is 0.7815326684584635
+Accuracy on tagging  29100 samples is 0.7815326684584635
+Accuracy on tagging  29200 samples is 0.7815326684584635
+Accuracy on tagging  29300 samples is 0.7815326684584635
+Accuracy on tagging  29400 samples is 0.7815326684584635
+Accuracy on tagging  29500 samples is 0.7815326684584635
+Accuracy on tagging  29600 samples is 0.7815326684584635
+Accuracy on tagging  29700 samples is 0.7815326684584635
+Accuracy on tagging  29800 samples is 0.7815326684584635
+Accuracy on tagging  29900 samples is 0.7815326684584635
+Accuracy on tagging  30000 samples is 0.7815326684584635
+Accuracy on tagging  30100 samples is 0.7815326684584635
+Accuracy on tagging  30200 samples is 0.7815326684584635
+Accuracy on tagging  30300 samples is 0.7815326684584635
+Accuracy on tagging  30400 samples is 0.7815326684584635
+Accuracy on tagging  30500 samples is 0.7815326684584635
+Accuracy on tagging  30600 samples is 0.7815326684584635
+Accuracy on tagging  30700 samples is 0.7815326684584635
+Accuracy on tagging  30800 samples is 0.7815326684584635
+Accuracy on tagging  30900 samples is 0.7815326684584635
+Accuracy on tagging  31000 samples is 0.7815326684584635
+Accuracy on tagging  31100 samples is 0.7815326684584635
+Accuracy on tagging  31200 samples is 0.7815326684584635
+Accuracy on tagging  31300 samples is 0.7815326684584635
+Accuracy on tagging  31400 samples is 0.7815326684584635
+Accuracy on tagging  31500 samples is 0.7815326684584635
+Accuracy on tagging  31600 samples is 0.7815326684584635
+Accuracy on tagging  31700 samples is 0.7815326684584635
+Accuracy on tagging  31800 samples is 0.7815326684584635
+Accuracy on tagging  31900 samples is 0.7815326684584635
+Accuracy on tagging  32000 samples is 0.7815326684584635
+Accuracy on tagging  32100 samples is 0.7815326684584635
+Accuracy on tagging  32200 samples is 0.7815326684584635
+Accuracy on tagging  32300 samples is 0.7815326684584635
+Accuracy on tagging  32400 samples is 0.7815326684584635
+Accuracy on tagging  32500 samples is 0.7815326684584635
+Accuracy on tagging  32600 samples is 0.7815326684584635
+Accuracy on tagging  32700 samples is 0.7815326684584635
+Accuracy on tagging  32800 samples is 0.7815326684584635
+Accuracy on tagging  32900 samples is 0.7815326684584635
+Accuracy on tagging  33000 samples is 0.7815326684584635
+Accuracy on tagging  33100 samples is 0.7815326684584635
+Accuracy on tagging  33200 samples is 0.7815326684584635
+Accuracy on tagging  33300 samples is 0.7815326684584635
+Accuracy on tagging  33400 samples is 0.7815326684584635
+Accuracy on tagging  33500 samples is 0.7815326684584635
+Accuracy on tagging  33600 samples is 0.7815326684584635
+Accuracy on tagging  33700 samples is 0.7815326684584635
+Accuracy on tagging  33800 samples is 0.7815326684584635
+Accuracy on tagging  33900 samples is 0.7815326684584635
+Accuracy on tagging  34000 samples is 0.7815326684584635
+Accuracy on tagging  34100 samples is 0.7815326684584635
+Accuracy on tagging  34200 samples is 0.7815326684584635
+Accuracy on tagging  34300 samples is 0.7815326684584635
+Accuracy on tagging  34400 samples is 0.7815326684584635
+Accuracy on tagging  34500 samples is 0.7815326684584635
+Accuracy on tagging  34600 samples is 0.7815326684584635
+Accuracy on tagging  34700 samples is 0.7815326684584635
+Accuracy on tagging  34800 samples is 0.7815326684584635
+Accuracy on tagging  34900 samples is 0.7815326684584635
+Accuracy on tagging  35000 samples is 0.7815326684584635
+Accuracy on tagging  35100 samples is 0.7815326684584635
+Accuracy on tagging  35200 samples is 0.7815326684584635
+Accuracy on tagging  35300 samples is 0.7815326684584635
+Accuracy on tagging  35400 samples is 0.7815326684584635
+Accuracy on tagging  35500 samples is 0.7815326684584635
+Accuracy on tagging  35600 samples is 0.7815326684584635
+Accuracy on tagging  35700 samples is 0.7815326684584635
+Accuracy on tagging  35800 samples is 0.7815326684584635
+Accuracy on tagging  35900 samples is 0.7815326684584635
+Accuracy on tagging  36000 samples is 0.7815326684584635
+Accuracy on tagging  36100 samples is 0.7815326684584635
+Accuracy on tagging  36200 samples is 0.7815326684584635
+Accuracy on tagging  36300 samples is 0.7815326684584635
+Accuracy on tagging  36400 samples is 0.7815326684584635
+Accuracy on tagging  36500 samples is 0.7815326684584635
+Accuracy on tagging  36600 samples is 0.7815326684584635
+Accuracy on tagging  36700 samples is 0.7815326684584635
+Accuracy on tagging  36800 samples is 0.7815326684584635
+Accuracy on tagging  36900 samples is 0.7815326684584635
+Accuracy on tagging  37000 samples is 0.7815326684584635
+Accuracy on tagging  37100 samples is 0.7815326684584635

@@ -1,0 +1,40 @@
+Wrongly Predicted noun: [Lemma('term.n.02.term'), 'term', 5]
+['The', 'jury', 'further', 'said', 'in', 'term', 'end', 'presentments', 'that', 'the', 'City', 'Executive', 'Committee', ',', 'which', 'had', 'over-all', 'charge', 'of', 'the', 'election', ',', '``', 'deserves', 'the', 'praise', 'and', 'thanks', 'of', 'the', 'City', 'of', 'Atlanta', "''", 'for', 'the', 'manner', 'in', 'which', 'the', 'election', 'was', 'conducted', '.']
+actual sense: a limited period of time
+Predicted sense: (usually plural) a statement of what is required as part of an agreement
+Wrongly Predicted noun: [Lemma('end.n.02.end'), 'end', 6]
+['The', 'jury', 'further', 'said', 'in', 'term', 'end', 'presentments', 'that', 'the', 'City', 'Executive', 'Committee', ',', 'which', 'had', 'over-all', 'charge', 'of', 'the', 'election', ',', '``', 'deserves', 'the', 'praise', 'and', 'thanks', 'of', 'the', 'City', 'of', 'Atlanta', "''", 'for', 'the', 'manner', 'in', 'which', 'the', 'election', 'was', 'conducted', '.']
+actual sense: the point in time at which something ends
+Predicted sense: either extremity of something that has length
+Wrongly Predicted noun: [Lemma('mission.n.03.charge'), 'charge', 15]
+['The', 'jury', 'further', 'said', 'in', 'term', 'end', 'presentments', 'that', 'the', 'City', 'Executive', 'Committee', ',', 'which', 'had', 'over-all', 'charge', 'of', 'the', 'election', ',', '``', 'deserves', 'the', 'praise', 'and', 'thanks', 'of', 'the', 'City', 'of', 'Atlanta', "''", 'for', 'the', 'manner', 'in', 'which', 'the', 'election', 'was', 'conducted', '.']
+actual sense: a special assignment that is given to a person or group
+Predicted sense: an impetuous rush toward someone or something
+Wrongly Predicted noun: [Lemma('term.n.02.term'), 'term', 3]
+['The', 'September', 'October', 'term', 'jury', 'had', 'been', 'charged', 'by', 'Fulton', 'Superior', 'Court', 'Judge', 'Durwood', 'Pye', 'to', 'investigate', 'reports', 'of', 'possible', '``', 'irregularities', "''", 'in', 'the', 'hard-fought', 'primary', 'which', 'was', 'won', 'by', 'Mayor-nominate', 'Ivan', 'Allen', 'Jr.', '.']
+actual sense: a limited period of time
+Predicted sense: name formally or designate with a term
+Wrongly Predicted noun: [Lemma('report.n.03.report'), 'reports', 7]
+['``', 'Only', 'a', 'relative', 'handful', 'of', 'such', 'reports', 'was', 'received', "''", ',', 'the', 'jury', 'said', ',', '``', 'considering', 'the', 'widespread', 'interest', 'in', 'the', 'election', ',', 'the', 'number', 'of', 'voters', 'and', 'the', 'size', 'of', 'this', 'city', "''", '.']
+actual sense: a short account of the news
+Predicted sense: to give an account or representation of in words
+Wrongly Predicted noun: [Lemma('number.n.02.number'), 'number', 26]
+['``', 'Only', 'a', 'relative', 'handful', 'of', 'such', 'reports', 'was', 'received', "''", ',', 'the', 'jury', 'said', ',', '``', 'considering', 'the', 'widespread', 'interest', 'in', 'the', 'election', ',', 'the', 'number', 'of', 'voters', 'and', 'the', 'size', 'of', 'this', 'city', "''", '.']
+actual sense: a concept of quantity involving zero and units
+Predicted sense: the property possessed by a sum or total or indefinite quantity of units or individuals
+Wrongly Predicted noun: [Lemma('law.n.02.law'), 'laws', 13]
+['The', 'jury', 'said', 'it', 'did', 'find', 'that', 'many', 'of', 'Georgia', "'s", 'registration', 'and', 'election', 'laws', '``', 'are', 'outmoded', 'or', 'inadequate', 'and', 'often', 'ambiguous', "''", '.']
+actual sense: legal document setting forth rules governing a particular kind of activity
+Predicted sense: the first of three divisions of the Hebrew Scriptures comprising the first five books of the Hebrew Bible considered as a unit
+Wrongly Predicted noun: [Lemma('law.n.02.law'), 'laws', 10]
+['It', 'recommended', 'that', 'Fulton', 'legislators', 'act', '``', 'to', 'have', 'these', 'laws', 'studied', 'and', 'revised', 'to', 'the', 'end', 'of', 'modernizing', 'and', 'improving', 'them', "''", '.']
+actual sense: legal document setting forth rules governing a particular kind of activity
+Predicted sense: the first of three divisions of the Hebrew Scriptures comprising the first five books of the Hebrew Bible considered as a unit
+Wrongly Predicted noun: [Lemma('goal.n.01.end'), 'end', 16]
+['It', 'recommended', 'that', 'Fulton', 'legislators', 'act', '``', 'to', 'have', 'these', 'laws', 'studied', 'and', 'revised', 'to', 'the', 'end', 'of', 'modernizing', 'and', 'improving', 'them', "''", '.']
+actual sense: the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it
+Predicted sense: either extremity of something that has length
+Wrongly Predicted noun: [Lemma('topic.n.02.topic'), 'topics', 8]
+['The', 'grand', 'jury', 'commented', 'on', 'a', 'number', 'of', 'other', 'topics', ',', 'among', 'them', 'the', 'Atlanta', 'and', 'Fulton', 'County', 'purchasing', 'departments', 'which', 'it', 'said', '``', 'are', 'well', 'operated', 'and', 'follow', 'generally', 'accepted', 'practices', 'which', 'inure', 'to', 'the', 'best', 'interest', 'of', 'both', 'governments', "''", '.']
+actual sense: some situation or event that is thought about
+Predicted sense: the subject matter of a conversation or discussion
